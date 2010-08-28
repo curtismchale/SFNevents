@@ -26,3 +26,9 @@
     */
 
 ?>
+<?php
+    
+    // builds custom post type and taxonomies
+    require_once ( TEMPLATEPATH . '/assets/includes/type-taxonomy.php');
+
+?>
